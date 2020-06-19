@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EDgetSpikeLocationCandidates": {
+      "commandName": "Project",
+      "commandLineArgs": "R:\\data\\galaxy.json -l"
+    }
+  }
+}
